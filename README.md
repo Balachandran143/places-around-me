@@ -152,4 +152,4 @@ Food Shop:
 
 
 ## Result:
-Write your result
+The Program for implementing image map is executed successfully.
